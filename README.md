@@ -4,7 +4,7 @@ hi! i'm anthony!!
 
 things i do
 - @swamphacks xi co-executive of marketing
-- @uf_osc technical lead : studygatchi
+- @ufosc technical lead : studygatchi
 - uf sase backend developer
 - web dev + game dev!
 
